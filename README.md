@@ -4,7 +4,7 @@
 
 ![dubirajara GitHub stats](https://github-readme-stats.vercel.app/api?username=dubirajara&count_private=true&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubirajara&layout=compact&theme=dracula&hide=php,html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubirajara&layout=compact&theme=dracula&hide=php,html,Procfile&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/dubirajara/dubirajara/blob/output/github-contribution-grid-snake2.svg)
 
