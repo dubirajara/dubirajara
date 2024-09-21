@@ -1,11 +1,3 @@
-<h4 align="left">🔥 My Stats:</h4>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dubirajara&theme=dracula)](https://git.io/streak-stats)
-
-![Snake animation](https://github.com/dubirajara/dubirajara/blob/output/github-contribution-grid-snake2.svg)
-
-##
-
 <h4 align="left">🛠 Languages and Tools:</h4>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
